@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiFoxKey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0959cec2c634d6fd768aae3cfe79abc2723ef9aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b8893b2db883961773ccf490412bdd593fbf00f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiFoxKey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiFoxKey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

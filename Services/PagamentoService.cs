@@ -1,4 +1,5 @@
 using ApiLocadora.DataContexts;
+using ApiLocadora.Dtos;
 using ApiLocadora.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -36,23 +37,59 @@ namespace ApiLocadora.Services
         }
 
         // CREATE
-        public async Task<Pagamento> Create(Pagamento pagamento)
+        public async Task<Pagamento> Create(PagamentoDto item)
         {
-            _context.Pagamentos.Add(pagamento);
-            await _context.SaveChangesAsync();
-            return pagamento;
+            try
+            {
+                var novo = new Pagamento
+                {
+                    Valor_pago = item.Valor_pago,
+                    Data_pagamento = item.Data_pagamento,
+                    Parcelado = item.Parcelado,
+                    Qtd_parcelas = item.Qtd_parcelas,
+                    Status_pagamento = item.Status_pagamento,
+                    Id_venda_fk = item.Id_venda_fk,
+                    Id_cliente_pf_fk = item.Id_cliente_pf_fk,
+                    Id_cliente_pj_fk = item.Id_cliente_pj_fk
+                };
+
+                await _context.Pagamentos.AddAsync(novo);
+                await _context.SaveChangesAsync();
+
+                return novo;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
 
         // UPDATE
-        public async Task<Pagamento> Update(int id, Pagamento pagamentoAtualizado)
+        public async Task<Pagamento> Update(int id, PagamentoDto item)
         {
-            var existente = await _context.Pagamentos.FindAsync(id);
-            if (existente == null)
-                throw new Exception("Pagamento não encontrado.");
+            try
+            {
+                var pagamento = await _context.Pagamentos.FirstOrDefaultAsync(x => x.Id_pagamento == id);
 
-            _context.Entry(existente).CurrentValues.SetValues(pagamentoAtualizado);
-            await _context.SaveChangesAsync();
-            return existente;
+                if (pagamento == null)
+                    throw new Exception("Nota Fiscal não encontrada.");
+                pagamento.Valor_pago = item.Valor_pago;
+                pagamento.Data_pagamento = item.Data_pagamento;
+                pagamento.Parcelado = item.Parcelado;
+                pagamento.Qtd_parcelas = item.Qtd_parcelas;
+                pagamento.Status_pagamento = item.Status_pagamento;
+                pagamento.Id_venda_fk = item.Id_venda_fk;
+                pagamento.Id_cliente_pf_fk = item.Id_cliente_pf_fk;
+                pagamento.Id_cliente_pj_fk = item.Id_cliente_pj_fk;
+
+                await _context.SaveChangesAsync();
+
+                return pagamento;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
 
         // DELETE

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using ApiLocadora.Models;
 using ApiLocadora.Services;
+using ApiLocadora.Dtos;
 
 namespace ApiLocadora.Controllers
 {
@@ -40,7 +41,7 @@ namespace ApiLocadora.Controllers
 
         // CREATE
         [HttpPost("pagamentos")]
-        public async Task<IActionResult> Create([FromBody] Pagamento pagamento)
+        public async Task<IActionResult> Create([FromBody] PagamentoDto pagamento)
         {
             try
             {
@@ -55,7 +56,7 @@ namespace ApiLocadora.Controllers
 
         // UPDATE
         [HttpPut("pagamentos/{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] Pagamento pagamento)
+        public async Task<IActionResult> Update(int id, [FromBody] PagamentoDto pagamento)
         {
             try
             {

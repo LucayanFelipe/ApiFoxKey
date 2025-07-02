@@ -68,11 +68,35 @@ namespace ApiLocadora.DataContexts
             modelBuilder.Entity<NotaFiscal>().ToTable("nota_fiscal");
             modelBuilder.Entity<ItemVenda>().ToTable("item_venda");
 
+            modelBuilder.Entity<ItemVenda>()
+              .Property(iv => iv.Subtotal)
+              .HasComputedColumnSql("qtd * preco_unit", stored: true); // ou false se for VIRTUAL
+
             modelBuilder.Entity<Estoque>()
-    .HasOne(e => e.Produto)
-    .WithMany() // ou .WithMany(p => p.Estoques) se tiver coleção em Produto
-    .HasForeignKey(e => e.Id_produto_fk)
-    .OnDelete(DeleteBehavior.Restrict);
+            .HasOne(e => e.Produto)
+            .WithMany() // ou .WithMany(p => p.Estoques) se tiver coleção em Produto
+            .HasForeignKey(e => e.Id_produto_fk)
+            .OnDelete(DeleteBehavior.Restrict);
+
+            // Relacionamento com ClientePf (opcional)
+            modelBuilder.Entity<Venda>()
+                .HasOne(v => v.ClientePf)
+                .WithMany()
+                .HasForeignKey(v => v.Id_cliente_pf_fk)
+                .OnDelete(DeleteBehavior.SetNull); // Quando cliente for deletado, seta null
+
+            // Relacionamento com ClientePj (opcional)
+            modelBuilder.Entity<Venda>()
+                .HasOne(v => v.ClientePj)
+                .WithMany()
+                .HasForeignKey(v => v.Id_cliente_pj_fk)
+                .OnDelete(DeleteBehavior.SetNull); // Quando cliente for deletado, seta null
+
+            modelBuilder.Entity<Venda>()
+                .HasOne(v => v.Caixa)
+                .WithMany()
+                .HasForeignKey(v => v.Id_caixa_fk)
+                .OnDelete(DeleteBehavior.Restrict); // impede delete se houver venda
         }
     }
 }

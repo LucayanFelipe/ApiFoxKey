@@ -24,17 +24,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Caixa"
+                "$ref": "#/components/schemas/CaixaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Caixa"
+                "$ref": "#/components/schemas/CaixaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Caixa"
+                "$ref": "#/components/schemas/CaixaDto"
               }
             }
           }
@@ -87,17 +87,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Caixa"
+                "$ref": "#/components/schemas/CaixaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Caixa"
+                "$ref": "#/components/schemas/CaixaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Caixa"
+                "$ref": "#/components/schemas/CaixaDto"
               }
             }
           }
@@ -2118,17 +2118,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Pagamento"
+                "$ref": "#/components/schemas/PagamentoDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Pagamento"
+                "$ref": "#/components/schemas/PagamentoDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Pagamento"
+                "$ref": "#/components/schemas/PagamentoDto"
               }
             }
           }
@@ -2181,17 +2181,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Pagamento"
+                "$ref": "#/components/schemas/PagamentoDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Pagamento"
+                "$ref": "#/components/schemas/PagamentoDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Pagamento"
+                "$ref": "#/components/schemas/PagamentoDto"
               }
             }
           }
@@ -2993,17 +2993,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venda"
+                "$ref": "#/components/schemas/VendaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venda"
+                "$ref": "#/components/schemas/VendaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Venda"
+                "$ref": "#/components/schemas/VendaDto"
               }
             }
           }
@@ -3056,17 +3056,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venda"
+                "$ref": "#/components/schemas/VendaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venda"
+                "$ref": "#/components/schemas/VendaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Venda"
+                "$ref": "#/components/schemas/VendaDto"
               }
             }
           }
@@ -3149,6 +3149,54 @@
           },
           "movimentacaoCaixa": {
             "$ref": "#/components/schemas/MovimentacaoCaixa"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CaixaDto": {
+        "required": [
+          "data_abertura",
+          "data_fechamento",
+          "id_funcionario_fk",
+          "id_login_fk",
+          "id_movimentacao_fk",
+          "saldo_final",
+          "saldo_inicial",
+          "total_entrada"
+        ],
+        "type": "object",
+        "properties": {
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "data_fechamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "saldo_inicial": {
+            "type": "number",
+            "format": "double"
+          },
+          "saldo_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "total_entrada": {
+            "type": "number",
+            "format": "double"
+          },
+          "id_funcionario_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_login_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_movimentacao_fk": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -3874,6 +3922,7 @@
         "required": [
           "id_produto_fk",
           "id_venda_fk",
+          "preco_unit",
           "qtd"
         ],
         "type": "object",
@@ -3884,8 +3933,7 @@
           },
           "preco_unit": {
             "type": "number",
-            "format": "double",
-            "nullable": true
+            "format": "double"
           },
           "id_venda_fk": {
             "type": "integer",
@@ -4083,13 +4131,16 @@
         },
         "additionalProperties": false
       },
-      "Pagamento": {
+      "PagamentoDto": {
+        "required": [
+          "data_pagamento",
+          "id_venda_fk",
+          "parcelado",
+          "status_pagamento",
+          "valor_pago"
+        ],
         "type": "object",
         "properties": {
-          "id_pagamento": {
-            "type": "integer",
-            "format": "int32"
-          },
           "valor_pago": {
             "type": "number",
             "format": "double"
@@ -4107,8 +4158,8 @@
             "nullable": true
           },
           "status_pagamento": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "id_venda_fk": {
             "type": "integer",
@@ -4123,15 +4174,6 @@
             "type": "integer",
             "format": "int32",
             "nullable": true
-          },
-          "venda": {
-            "$ref": "#/components/schemas/Venda"
-          },
-          "clientePf": {
-            "$ref": "#/components/schemas/ClientePf"
-          },
-          "clientePj": {
-            "$ref": "#/components/schemas/ClientePj"
           }
         },
         "additionalProperties": false
@@ -4424,7 +4466,7 @@
         "additionalProperties": false
       },
       "TimeSpan": {
-        "type": "object",
+        "type": "string",
         "properties": {
           "ticks": {
             "type": "integer",
@@ -4501,7 +4543,9 @@
             "readOnly": true
           }
         },
-        "additionalProperties": false
+        "additionalProperties": false,
+        "format": "time",
+        "example": "14:30:00"
       },
       "Usuario": {
         "type": "object",
@@ -4604,7 +4648,8 @@
           },
           "id_caixa_fk": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "id_cliente_pf_fk": {
             "type": "integer",
@@ -4624,6 +4669,63 @@
           },
           "clientePj": {
             "$ref": "#/components/schemas/ClientePj"
+          }
+        },
+        "additionalProperties": false
+      },
+      "VendaDto": {
+        "required": [
+          "data_gerada",
+          "forma_pagamento",
+          "hora",
+          "id_caixa_fk",
+          "status_venda",
+          "valor_final",
+          "valor_total"
+        ],
+        "type": "object",
+        "properties": {
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "hora": {
+            "$ref": "#/components/schemas/TimeSpan"
+          },
+          "valor_total": {
+            "type": "number",
+            "format": "double"
+          },
+          "desconto": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valor_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "forma_pagamento": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "status_venda": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id_caixa_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_cliente_pf_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_cliente_pj_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
           }
         },
         "additionalProperties": false

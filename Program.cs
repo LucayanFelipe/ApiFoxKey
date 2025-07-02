@@ -2,7 +2,9 @@ using ApiLocadora.DataContexts;
 using ApiLocadora.Models;
 using ApiLocadora.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using System.Text.Json.Serialization;
+using ApiLocadora.Converters;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +15,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
+        options.JsonSerializerOptions.Converters.Add(new System.Text.Json.Serialization.JsonStringEnumConverter());
+        options.JsonSerializerOptions.Converters.Add(new ApiLocadora.Converters.TimeSpanToStringConverter());
         options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
     });
 
@@ -25,6 +29,8 @@ builder.Services.AddSwaggerGen(c =>
 
     // Mostra enums como string no Swagger UI
     c.UseInlineDefinitionsForEnums();
+    c.SchemaFilter<ApiLocadora.Swagger.TimeSpanSchemaFilter>(); // Adicione esta linha
+
 });
 
 // Config connection database

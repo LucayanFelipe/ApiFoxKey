@@ -3,6 +3,7 @@ using ApiLocadora.Models;
 using ApiLocadora.Services;
 using System;
 using System.Threading.Tasks;
+using ApiLocadora.Dtos;
 
 namespace ApiLocadora.Controllers
 {
@@ -43,7 +44,7 @@ namespace ApiLocadora.Controllers
 
         // CREATE
         [HttpPost("caixas")]
-        public async Task<IActionResult> Create([FromBody] Caixa item)
+        public async Task<IActionResult> Create([FromBody] CaixaDto item)
         {
             try
             {
@@ -59,8 +60,21 @@ namespace ApiLocadora.Controllers
 
         // UPDATE
         [HttpPut("caixas/{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] Caixa item)
+        public async Task<IActionResult> Update(int id, [FromBody] CaixaDto item)
         {
+            // Mapear dto para a entidade Caixa
+            var caixa = new Caixa
+            {
+                Data_abertura = item.Data_abertura,
+                Data_fechamento = item.Data_fechamento,
+                Saldo_inicial = item.Saldo_inicial,
+                Saldo_final = item.Saldo_final,
+                Total_entrada = item.Total_entrada,
+                Id_funcionario_fk = item.Id_funcionario_fk,
+                Id_login_fk = item.Id_login_fk,
+                Id_movimentacao_fk = item.Id_movimentacao_fk
+            };
+
             try
             {
                 var atualizado = await _service.Update(id, item);

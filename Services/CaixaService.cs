@@ -42,13 +42,27 @@ namespace ApiLocadora.Services
             }
         }
 
-        public async Task<Caixa> Create(Caixa item)
+        public async Task<Caixa> Create(CaixaDto item)
         {
+
+            // Mapeamento manual do DTO para a entidade
+            var caixa = new Caixa
+            {
+                Data_abertura = item.Data_abertura,
+                Data_fechamento = item.Data_fechamento,
+                Saldo_inicial = item.Saldo_inicial,
+                Saldo_final = item.Saldo_final,
+                Total_entrada = item.Total_entrada,
+                Id_funcionario_fk = item.Id_funcionario_fk,
+                Id_login_fk = item.Id_login_fk,
+                Id_movimentacao_fk = item.Id_movimentacao_fk
+            };
+
             try
             {
-                await _context.Caixas.AddAsync(item);
+                await _context.Caixas.AddAsync(caixa);
                 await _context.SaveChangesAsync();
-                return item;
+                return caixa;
             }
             catch (Exception ex)
             {
@@ -56,7 +70,7 @@ namespace ApiLocadora.Services
             }
         }
 
-        public async Task<Caixa> Update(int id, Caixa item)
+        public async Task<Caixa> Update(int id, CaixaDto item)
         {
             try
             {

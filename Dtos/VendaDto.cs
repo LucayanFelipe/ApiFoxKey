@@ -26,7 +26,7 @@ namespace ApiLocadora.Dtos
         public string Status_venda { get; set; }
 
         [Required]
-        public int Id_caixa_fk { get; set; }
+        public int? Id_caixa_fk { get; set; }
 
         public int? Id_cliente_pf_fk { get; set; }
 

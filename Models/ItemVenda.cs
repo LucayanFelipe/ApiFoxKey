@@ -15,7 +15,6 @@ namespace ApiLocadora.Models
 
         public decimal? Subtotal { get; set; }
 
-
         public int Id_venda_fk { get; set; }
 
 

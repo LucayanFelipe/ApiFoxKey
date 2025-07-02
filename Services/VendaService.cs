@@ -1,4 +1,5 @@
 using ApiLocadora.DataContexts;
+using ApiLocadora.Dtos;
 using ApiLocadora.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -36,15 +37,28 @@ namespace ApiLocadora.Services
         }
 
         // CREATE
-        public async Task<Venda> Create(Venda venda)
+        public async Task<Venda> Create(VendaDto venda)
         {
-            _context.Vendas.Add(venda);
+            var novaVenda = new Venda {
+                Data_gerada = venda.Data_gerada,
+                Hora = venda.Hora,
+                Valor_total = venda.Valor_total,
+                Desconto = venda.Desconto,
+                Valor_final = venda.Valor_final,
+                Forma_pagamento = venda.Forma_pagamento,
+                Status_venda = venda.Status_venda,
+                Id_caixa_fk = venda.Id_caixa_fk,
+                Id_cliente_pf_fk = venda.Id_cliente_pf_fk,
+                Id_cliente_pj_fk = venda.Id_cliente_pj_fk,
+            };
+
+            _context.Vendas.Add(novaVenda);
             await _context.SaveChangesAsync();
-            return venda;
+            return novaVenda;
         }
 
         // UPDATE
-        public async Task<Venda> Update(int id, Venda novaVenda)
+        public async Task<Venda> Update(int id, VendaDto novaVenda)
         {
             var venda = await _context.Vendas.FindAsync(id);
 

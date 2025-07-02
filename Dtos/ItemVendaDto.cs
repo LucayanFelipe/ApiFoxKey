@@ -6,14 +6,15 @@ namespace ApiLocadora.Dtos
     public class ItemVendaDto
     {
         [Required]
-        public int Qtd { get; set; }
-
-        public decimal? Preco_unit { get; set; }
+        public required int Qtd { get; set; }
 
         [Required]
-        public int Id_venda_fk { get; set; }
+        public required decimal? Preco_unit { get; set; }
 
         [Required]
-        public int Id_produto_fk { get; set; }
+        public required int Id_venda_fk { get; set; }
+
+        [Required]
+        public required int Id_produto_fk { get; set; }
     }
 }

@@ -30,7 +30,7 @@ namespace ApiLocadora.Models
         public string Status_venda { get; set; }
 
 
-        public int Id_caixa_fk { get; set; }
+        public int? Id_caixa_fk { get; set; }
 
         public int? Id_cliente_pf_fk { get; set; }
 

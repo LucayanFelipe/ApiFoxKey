@@ -148,7 +148,7 @@
     "Parameters": [
       {
         "Name": "item",
-        "Type": "ApiLocadora.Models.Caixa",
+        "Type": "ApiLocadora.Dtos.CaixaDto",
         "IsRequired": true
       }
     ],
@@ -185,7 +185,7 @@
       },
       {
         "Name": "item",
-        "Type": "ApiLocadora.Models.Caixa",
+        "Type": "ApiLocadora.Dtos.CaixaDto",
         "IsRequired": true
       }
     ],
@@ -1333,7 +1333,7 @@
     "Parameters": [
       {
         "Name": "pagamento",
-        "Type": "ApiLocadora.Models.Pagamento",
+        "Type": "ApiLocadora.Dtos.PagamentoDto",
         "IsRequired": true
       }
     ],
@@ -1370,7 +1370,7 @@
       },
       {
         "Name": "pagamento",
-        "Type": "ApiLocadora.Models.Pagamento",
+        "Type": "ApiLocadora.Dtos.PagamentoDto",
         "IsRequired": true
       }
     ],
@@ -1886,7 +1886,7 @@
     "Parameters": [
       {
         "Name": "venda",
-        "Type": "ApiLocadora.Models.Venda",
+        "Type": "ApiLocadora.Dtos.VendaDto",
         "IsRequired": true
       }
     ],
@@ -1923,7 +1923,7 @@
       },
       {
         "Name": "venda",
-        "Type": "ApiLocadora.Models.Venda",
+        "Type": "ApiLocadora.Dtos.VendaDto",
         "IsRequired": true
       }
     ],

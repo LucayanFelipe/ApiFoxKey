@@ -1,0 +1,4563 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ApiFoxKey",
+    "version": "v1"
+  },
+  "paths": {
+    "/caixas": {
+      "get": {
+        "tags": [
+          "Caixa"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Caixa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaixaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaixaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaixaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/caixas/{id}": {
+      "get": {
+        "tags": [
+          "Caixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Caixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaixaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaixaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaixaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Caixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/categorias": {
+      "get": {
+        "tags": [
+          "Categoria"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Categoria"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CategoriaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CategoriaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CategoriaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/categorias/{id}": {
+      "get": {
+        "tags": [
+          "Categoria"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Categoria"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CategoriaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CategoriaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CategoriaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Categoria"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/clientepf": {
+      "get": {
+        "tags": [
+          "ClientePf"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "ClientePf"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePfDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePfDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePfDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/clientepf/{id}": {
+      "get": {
+        "tags": [
+          "ClientePf"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "ClientePf"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePfDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePfDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePfDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "ClientePf"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/clientepj": {
+      "get": {
+        "tags": [
+          "ClientePj"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "ClientePj"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePjDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePjDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePjDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/clientepj/{id}": {
+      "get": {
+        "tags": [
+          "ClientePj"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "ClientePj"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePjDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePjDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientePjDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "ClientePj"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/compra": {
+      "get": {
+        "tags": [
+          "Compra"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Compra"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CompraDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CompraDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CompraDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/compra/{id}": {
+      "get": {
+        "tags": [
+          "Compra"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Compra"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CompraDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CompraDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CompraDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Compra"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/despesas": {
+      "get": {
+        "tags": [
+          "Despesa"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Despesa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DespesaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DespesaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DespesaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/despesas/{id}": {
+      "get": {
+        "tags": [
+          "Despesa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Despesa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DespesaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DespesaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DespesaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Despesa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/estoques": {
+      "get": {
+        "tags": [
+          "Estoque"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Estoque"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EstoqueDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EstoqueDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EstoqueDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/estoques/{id}": {
+      "get": {
+        "tags": [
+          "Estoque"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Estoque"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EstoqueDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EstoqueDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EstoqueDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Estoque"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/fornecedorespf": {
+      "get": {
+        "tags": [
+          "FornecedorPf"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "FornecedorPf"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPfDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPfDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPfDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/fornecedorespf/{id}": {
+      "get": {
+        "tags": [
+          "FornecedorPf"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "FornecedorPf"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPfDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPfDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPfDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "FornecedorPf"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/fornecedores-pj": {
+      "get": {
+        "tags": [
+          "FornecedorPj"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "FornecedorPj"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPjDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPjDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPjDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/fornecedores-pj/{id}": {
+      "get": {
+        "tags": [
+          "FornecedorPj"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "FornecedorPj"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPjDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPjDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FornecedorPjDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "FornecedorPj"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/funcionarios": {
+      "get": {
+        "tags": [
+          "Funcionario"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Funcionario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FuncionarioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FuncionarioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FuncionarioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/funcionarios/{id}": {
+      "get": {
+        "tags": [
+          "Funcionario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Funcionario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FuncionarioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FuncionarioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FuncionarioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Funcionario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/loginsexclusivos": {
+      "get": {
+        "tags": [
+          "LoginExclusivo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "LoginExclusivo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginExclusivoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginExclusivoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginExclusivoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/loginsexclusivos/{id}": {
+      "get": {
+        "tags": [
+          "LoginExclusivo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "LoginExclusivo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginExclusivoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginExclusivoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginExclusivoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "LoginExclusivo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/movimentacaocaixa": {
+      "get": {
+        "tags": [
+          "MovimentacaoCaixa"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "MovimentacaoCaixa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MovimentacaoCaixaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MovimentacaoCaixaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MovimentacaoCaixaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/movimentacaocaixa/{id}": {
+      "get": {
+        "tags": [
+          "MovimentacaoCaixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "MovimentacaoCaixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MovimentacaoCaixaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MovimentacaoCaixaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MovimentacaoCaixaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "MovimentacaoCaixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/notafiscal": {
+      "get": {
+        "tags": [
+          "NotaFiscal"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/NotaFiscal"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/NotaFiscal"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/NotaFiscal"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "NotaFiscal"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NotaFiscalDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NotaFiscalDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/NotaFiscalDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/notafiscal/{id}": {
+      "get": {
+        "tags": [
+          "NotaFiscal"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "NotaFiscal"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NotaFiscalDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NotaFiscalDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/NotaFiscalDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "NotaFiscal"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotaFiscal"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/pagamentos": {
+      "get": {
+        "tags": [
+          "Pagamento"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Pagamento"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/pagamentos/{id}": {
+      "get": {
+        "tags": [
+          "Pagamento"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Pagamento"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Pagamento"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/parcelas": {
+      "get": {
+        "tags": [
+          "Parcela"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Parcela"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/parcelas/{id}": {
+      "get": {
+        "tags": [
+          "Parcela"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Parcela"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Parcela"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/produtos": {
+      "get": {
+        "tags": [
+          "Produto"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Produto"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProdutoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProdutoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProdutoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/produtos/{id}": {
+      "get": {
+        "tags": [
+          "Produto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Produto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProdutoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProdutoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProdutoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Produto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/relatoriocaixa": {
+      "get": {
+        "tags": [
+          "RelatorioCaixa"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "RelatorioCaixa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCaixaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCaixaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCaixaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/relatoriocaixa/{id}": {
+      "get": {
+        "tags": [
+          "RelatorioCaixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "RelatorioCaixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCaixaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCaixaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCaixaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "RelatorioCaixa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/relatoriocompra": {
+      "get": {
+        "tags": [
+          "RelatorioCompra"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "RelatorioCompra"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCompraDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCompraDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCompraDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/relatoriocompra/{id}": {
+      "get": {
+        "tags": [
+          "RelatorioCompra"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "RelatorioCompra"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCompraDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCompraDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioCompraDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "RelatorioCompra"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/relatoriovenda": {
+      "get": {
+        "tags": [
+          "RelatorioVenda"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "RelatorioVenda"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioVenda"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioVenda"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioVenda"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/relatoriovenda/{id}": {
+      "get": {
+        "tags": [
+          "RelatorioVenda"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "RelatorioVenda"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioVenda"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioVenda"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RelatorioVenda"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "RelatorioVenda"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/usuarios": {
+      "get": {
+        "tags": [
+          "Usuario"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/usuarios/{id}": {
+      "get": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/vendas": {
+      "get": {
+        "tags": [
+          "Venda"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Venda"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/VendaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/VendaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/VendaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/vendas/{id}": {
+      "get": {
+        "tags": [
+          "Venda"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Venda"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/VendaDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/VendaDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/VendaDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Venda"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Caixa": {
+        "type": "object",
+        "properties": {
+          "id_caixa": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "data_fechamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "saldo_inicial": {
+            "type": "number",
+            "format": "double"
+          },
+          "saldo_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "total_entrada": {
+            "type": "number",
+            "format": "double"
+          },
+          "id_funcionario_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_login_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_movimentacao_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "funcionario": {
+            "$ref": "#/components/schemas/Funcionario"
+          },
+          "loginExclusivo": {
+            "$ref": "#/components/schemas/LoginExclusivo"
+          },
+          "movimentacaoCaixa": {
+            "$ref": "#/components/schemas/MovimentacaoCaixa"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CaixaDto": {
+        "required": [
+          "data_abertura",
+          "data_fechamento",
+          "id_funcionario_fk",
+          "id_login_fk",
+          "id_movimentacao_fk",
+          "saldo_final",
+          "saldo_inicial",
+          "total_entrada"
+        ],
+        "type": "object",
+        "properties": {
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "data_fechamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "saldo_inicial": {
+            "type": "number",
+            "format": "double"
+          },
+          "saldo_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "total_entrada": {
+            "type": "number",
+            "format": "double"
+          },
+          "id_funcionario_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_login_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_movimentacao_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Categoria": {
+        "type": "object",
+        "properties": {
+          "id_categoria": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "prioridade_reposicao": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_registro": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "ativo": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CategoriaDto": {
+        "required": [
+          "ativo",
+          "data_registro",
+          "descricao",
+          "nome",
+          "prioridade_reposicao"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "descricao": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "prioridade_reposicao": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_registro": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "ativo": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClientePf": {
+        "type": "object",
+        "properties": {
+          "id_cliente_pf": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "sobrenome": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "cpf": {
+            "type": "string",
+            "nullable": true
+          },
+          "rg": {
+            "type": "string",
+            "nullable": true
+          },
+          "sexo": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_endereco_contato_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContato"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClientePfDto": {
+        "required": [
+          "cpf",
+          "data_nascimento",
+          "enderecoContato",
+          "nome",
+          "rg",
+          "sexo",
+          "sobrenome"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sobrenome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "cpf": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "rg": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sexo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContatoDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClientePj": {
+        "type": "object",
+        "properties": {
+          "id_cliente_pj": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome_fantasia": {
+            "type": "string",
+            "nullable": true
+          },
+          "razao_social": {
+            "type": "string",
+            "nullable": true
+          },
+          "inscricao_municipal": {
+            "type": "string",
+            "nullable": true
+          },
+          "cnpj": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "representante": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_endereco_contato_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContato"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClientePjDto": {
+        "required": [
+          "cnpj",
+          "data_abertura",
+          "enderecoContato",
+          "inscricao_municipal",
+          "nome_fantasia",
+          "razao_social",
+          "representante"
+        ],
+        "type": "object",
+        "properties": {
+          "nome_fantasia": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "razao_social": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "inscricao_municipal": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cnpj": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "representante": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContatoDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CompraDto": {
+        "required": [
+          "data_compra",
+          "id_login_fk",
+          "observacao",
+          "status_compra",
+          "tipo_pagamento",
+          "valor_total"
+        ],
+        "type": "object",
+        "properties": {
+          "data_compra": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "valor_total": {
+            "type": "number",
+            "format": "double"
+          },
+          "tipo_pagamento": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "observacao": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "status_compra": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string"
+          },
+          "id_fornecedor_pf_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_fornecedor_pj_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_login_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "DespesaDto": {
+        "required": [
+          "data_gerada",
+          "descricao",
+          "id_login_fk",
+          "tipo_despesa",
+          "valor"
+        ],
+        "type": "object",
+        "properties": {
+          "tipo_despesa": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "valor": {
+            "type": "number",
+            "format": "double"
+          },
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "descricao": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id_login_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnderecoContato": {
+        "type": "object",
+        "properties": {
+          "id_endereco_contato": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rua": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero": {
+            "type": "string",
+            "nullable": true
+          },
+          "bairro": {
+            "type": "string",
+            "nullable": true
+          },
+          "complemento": {
+            "type": "string",
+            "nullable": true
+          },
+          "referencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "cep": {
+            "type": "string",
+            "nullable": true
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          },
+          "cidade": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "celular": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnderecoContatoDto": {
+        "required": [
+          "bairro",
+          "celular",
+          "cep",
+          "cidade",
+          "email",
+          "estado",
+          "numero",
+          "rua"
+        ],
+        "type": "object",
+        "properties": {
+          "rua": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "numero": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bairro": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "complemento": {
+            "type": "string",
+            "nullable": true
+          },
+          "referencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "cep": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "estado": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cidade": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "celular": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EstoqueDto": {
+        "required": [
+          "id_produto_fk",
+          "observacao",
+          "qtd_atual",
+          "qtd_minima",
+          "qtd_reservada",
+          "status_estoque"
+        ],
+        "type": "object",
+        "properties": {
+          "qtd_atual": {
+            "type": "number",
+            "format": "double"
+          },
+          "qtd_reservada": {
+            "type": "number",
+            "format": "double"
+          },
+          "qtd_minima": {
+            "type": "number",
+            "format": "double"
+          },
+          "status_estoque": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "observacao": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id_produto_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FornecedorPf": {
+        "type": "object",
+        "properties": {
+          "id_fornecedor_pf": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "sobrenome": {
+            "type": "string",
+            "nullable": true
+          },
+          "cpf": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "rg": {
+            "type": "string",
+            "nullable": true
+          },
+          "sexo": {
+            "type": "string",
+            "nullable": true
+          },
+          "estado_civil": {
+            "type": "string",
+            "nullable": true
+          },
+          "orgao_expedidor": {
+            "type": "string",
+            "nullable": true
+          },
+          "nacionalidade": {
+            "type": "string",
+            "nullable": true
+          },
+          "raca": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_endereco_contato_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContato"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FornecedorPfDto": {
+        "required": [
+          "cpf",
+          "data_nascimento",
+          "enderecoContato",
+          "estado_civil",
+          "nacionalidade",
+          "nome",
+          "orgao_expedidor",
+          "raca",
+          "rg",
+          "sexo",
+          "sobrenome"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sobrenome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cpf": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "rg": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sexo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "estado_civil": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "orgao_expedidor": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "nacionalidade": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "raca": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContatoDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FornecedorPj": {
+        "type": "object",
+        "properties": {
+          "id_fornecedor_pj": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome_fantasia": {
+            "type": "string",
+            "nullable": true
+          },
+          "razao_social": {
+            "type": "string",
+            "nullable": true
+          },
+          "inscricao_municipal": {
+            "type": "string",
+            "nullable": true
+          },
+          "cnpj": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "representante": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_endereco_contato_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContato"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FornecedorPjDto": {
+        "required": [
+          "cnpj",
+          "data_abertura",
+          "enderecoContato",
+          "inscricao_municipal",
+          "nome_fantasia",
+          "razao_social",
+          "representante"
+        ],
+        "type": "object",
+        "properties": {
+          "nome_fantasia": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "razao_social": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "inscricao_municipal": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cnpj": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "representante": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContatoDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Funcionario": {
+        "type": "object",
+        "properties": {
+          "id_funcionario": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "sobrenome": {
+            "type": "string",
+            "nullable": true
+          },
+          "cpf": {
+            "type": "string",
+            "nullable": true
+          },
+          "rg": {
+            "type": "string",
+            "nullable": true
+          },
+          "orgao_expedidor": {
+            "type": "string",
+            "nullable": true
+          },
+          "nacionalidade": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_ctps": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_pis": {
+            "type": "string",
+            "nullable": true
+          },
+          "raca": {
+            "type": "string",
+            "nullable": true
+          },
+          "sexo": {
+            "type": "string",
+            "nullable": true
+          },
+          "estado_civil": {
+            "type": "string",
+            "nullable": true
+          },
+          "cargo": {
+            "type": "string",
+            "nullable": true
+          },
+          "grau_instrucao": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_nascimento": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "id_endereco_contato_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContato"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FuncionarioDto": {
+        "required": [
+          "cargo",
+          "cpf",
+          "data_nascimento",
+          "enderecoContato",
+          "estado_civil",
+          "grau_instrucao",
+          "nacionalidade",
+          "nome",
+          "numero_ctps",
+          "numero_pis",
+          "orgao_expedidor",
+          "raca",
+          "rg",
+          "sexo",
+          "sobrenome"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sobrenome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cpf": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "rg": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "orgao_expedidor": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "nacionalidade": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "numero_ctps": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "numero_pis": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "raca": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sexo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "estado_civil": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cargo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "grau_instrucao": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_nascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "enderecoContato": {
+            "$ref": "#/components/schemas/EnderecoContatoDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ItemVenda": {
+        "type": "object",
+        "properties": {
+          "id_item_venda": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "qtd": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "preco_unit": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "subtotal": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "id_venda_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_produto_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "venda": {
+            "$ref": "#/components/schemas/Venda"
+          },
+          "produto": {
+            "$ref": "#/components/schemas/Produto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ItemVendaCreateDto": {
+        "type": "object",
+        "properties": {
+          "qtd": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "preco_unit": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "id_produto_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginExclusivo": {
+        "type": "object",
+        "properties": {
+          "id_login": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_ativacao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id_usuario_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "usuario": {
+            "$ref": "#/components/schemas/Usuario"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginExclusivoDto": {
+        "required": [
+          "data_ativacao",
+          "id_usuario_fk"
+        ],
+        "type": "object",
+        "properties": {
+          "data_ativacao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id_usuario_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "MovimentacaoCaixa": {
+        "type": "object",
+        "properties": {
+          "id_movimentacao_caixa": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tipo": {
+            "type": "string",
+            "nullable": true
+          },
+          "valor": {
+            "type": "number",
+            "format": "double"
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "hora": {
+            "$ref": "#/components/schemas/TimeOnly"
+          }
+        },
+        "additionalProperties": false
+      },
+      "MovimentacaoCaixaDto": {
+        "required": [
+          "data_gerada",
+          "descricao",
+          "hora",
+          "tipo",
+          "valor"
+        ],
+        "type": "object",
+        "properties": {
+          "tipo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "valor": {
+            "type": "number",
+            "format": "double"
+          },
+          "descricao": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "hora": {
+            "$ref": "#/components/schemas/TimeOnly"
+          }
+        },
+        "additionalProperties": false
+      },
+      "NotaFiscal": {
+        "type": "object",
+        "properties": {
+          "id_nota_fiscal": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "numero": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_emissao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "valor_total": {
+            "type": "number",
+            "format": "double"
+          },
+          "tipo": {
+            "type": "string",
+            "nullable": true
+          },
+          "chave_acesso": {
+            "type": "string",
+            "nullable": true
+          },
+          "xml_nota": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_venda_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "venda": {
+            "$ref": "#/components/schemas/Venda"
+          }
+        },
+        "additionalProperties": false
+      },
+      "NotaFiscalDto": {
+        "required": [
+          "chave_acesso",
+          "data_emissao",
+          "id_venda_fk",
+          "numero",
+          "tipo",
+          "valor_total",
+          "xml_nota"
+        ],
+        "type": "object",
+        "properties": {
+          "numero": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_emissao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "valor_total": {
+            "type": "number",
+            "format": "double"
+          },
+          "tipo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "chave_acesso": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "xml_nota": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id_venda_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PagamentoDto": {
+        "required": [
+          "data_pagamento",
+          "id_venda_fk",
+          "parcelado",
+          "status_pagamento",
+          "valor_pago"
+        ],
+        "type": "object",
+        "properties": {
+          "valor_pago": {
+            "type": "number",
+            "format": "double"
+          },
+          "data_pagamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "parcelado": {
+            "type": "boolean"
+          },
+          "qtd_parcelas": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "status_pagamento": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id_venda_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_cliente_pf_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_cliente_pj_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ParcelaDto": {
+        "required": [
+          "data_pagamento",
+          "data_vencimento",
+          "id_despesa_fk",
+          "id_pagamento_fk",
+          "qtd_parcelas",
+          "status_parcela",
+          "valor_parcela"
+        ],
+        "type": "object",
+        "properties": {
+          "qtd_parcelas": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_vencimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "valor_parcela": {
+            "type": "number",
+            "format": "double"
+          },
+          "status_parcela": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_pagamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id_pagamento_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_despesa_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Produto": {
+        "type": "object",
+        "properties": {
+          "id_produto": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "codigo_barra": {
+            "type": "string",
+            "nullable": true
+          },
+          "unidade_medida": {
+            "type": "string",
+            "nullable": true
+          },
+          "preco_custo": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "preco_venda": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "ativo": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "data_cadastro": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_categoria_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_fornecedor_pf_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_fornecedor_pj_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "categoria": {
+            "$ref": "#/components/schemas/Categoria"
+          },
+          "fornecedorPf": {
+            "$ref": "#/components/schemas/FornecedorPf"
+          },
+          "fornecedorPj": {
+            "$ref": "#/components/schemas/FornecedorPj"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProdutoDto": {
+        "required": [
+          "ativo",
+          "codigo_barra",
+          "data_cadastro",
+          "nome",
+          "nome_categoria",
+          "preco_custo",
+          "preco_venda",
+          "unidade_medida"
+        ],
+        "type": "object",
+        "properties": {
+          "codigo_barra": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "unidade_medida": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "preco_custo": {
+            "type": "number",
+            "format": "double"
+          },
+          "preco_venda": {
+            "type": "number",
+            "format": "double"
+          },
+          "ativo": {
+            "type": "boolean"
+          },
+          "data_cadastro": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "nome_categoria": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "cpf_fornecedor_pf": {
+            "type": "string",
+            "nullable": true
+          },
+          "cnpj_fornecedor_pj": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RelatorioCaixaDto": {
+        "required": [
+          "data_abertura",
+          "data_fechamento",
+          "data_gerada",
+          "entrada_reforco",
+          "entrada_vendas",
+          "id_caixa_fk",
+          "observacoes",
+          "operador",
+          "saida_despesa",
+          "saida_sangria",
+          "saldo_final",
+          "saldo_inicial",
+          "total_entradas",
+          "total_saida"
+        ],
+        "type": "object",
+        "properties": {
+          "data_abertura": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "data_fechamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "operador": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "saldo_inicial": {
+            "type": "number",
+            "format": "double"
+          },
+          "entrada_vendas": {
+            "type": "number",
+            "format": "double"
+          },
+          "entrada_reforco": {
+            "type": "number",
+            "format": "double"
+          },
+          "total_entradas": {
+            "type": "number",
+            "format": "double"
+          },
+          "saida_sangria": {
+            "type": "number",
+            "format": "double"
+          },
+          "saida_despesa": {
+            "type": "number",
+            "format": "double"
+          },
+          "total_saida": {
+            "type": "number",
+            "format": "double"
+          },
+          "saldo_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "observacoes": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id_caixa_fk": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RelatorioCompraDto": {
+        "required": [
+          "data_final",
+          "data_gerada",
+          "data_inicial",
+          "fornecedor_frequente",
+          "produto_frequente",
+          "qtd_compras",
+          "total_compras"
+        ],
+        "type": "object",
+        "properties": {
+          "data_inicial": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "data_final": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "total_compras": {
+            "type": "number",
+            "format": "double"
+          },
+          "qtd_compras": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "produto_frequente": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "fornecedor_frequente": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RelatorioVenda": {
+        "type": "object",
+        "properties": {
+          "id_relatorio_venda": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_cadastro": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "total_vendas": {
+            "type": "number",
+            "format": "double"
+          },
+          "total_recibo": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TimeOnly": {
+        "type": "object",
+        "properties": {
+          "hour": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "minute": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "second": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "millisecond": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "microsecond": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "nanosecond": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "ticks": {
+            "type": "integer",
+            "format": "int64",
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TimeSpan": {
+        "type": "string",
+        "properties": {
+          "ticks": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "days": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "hours": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "milliseconds": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "microseconds": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "nanoseconds": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "minutes": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "seconds": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "totalDays": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalHours": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalMilliseconds": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalMicroseconds": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalNanoseconds": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalMinutes": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          },
+          "totalSeconds": {
+            "type": "number",
+            "format": "double",
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false,
+        "format": "time",
+        "example": "14:30:00"
+      },
+      "Usuario": {
+        "type": "object",
+        "properties": {
+          "id_usuario": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "senha": {
+            "type": "string",
+            "nullable": true
+          },
+          "perfilAcesso": {
+            "enum": [
+              "ADMIN",
+              "GERENTE",
+              "VENDEDOR",
+              "CAIXA"
+            ],
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UsuarioDto": {
+        "required": [
+          "email",
+          "nome",
+          "perfil_acesso",
+          "senha"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "senha": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "perfil_acesso": {
+            "enum": [
+              "ADMIN",
+              "GERENTE",
+              "VENDEDOR",
+              "CAIXA"
+            ],
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Venda": {
+        "type": "object",
+        "properties": {
+          "id_venda": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "hora": {
+            "$ref": "#/components/schemas/TimeSpan"
+          },
+          "valor_total": {
+            "type": "number",
+            "format": "double"
+          },
+          "desconto": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valor_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "forma_pagamento": {
+            "type": "string",
+            "nullable": true
+          },
+          "status_venda": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_caixa_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_cliente_pf_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_cliente_pj_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "itensVenda": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ItemVenda"
+            },
+            "nullable": true
+          },
+          "caixa": {
+            "$ref": "#/components/schemas/Caixa"
+          },
+          "clientePf": {
+            "$ref": "#/components/schemas/ClientePf"
+          },
+          "clientePj": {
+            "$ref": "#/components/schemas/ClientePj"
+          }
+        },
+        "additionalProperties": false
+      },
+      "VendaDto": {
+        "required": [
+          "data_gerada",
+          "forma_pagamento",
+          "hora",
+          "id_caixa_fk",
+          "status_venda",
+          "valor_final",
+          "valor_total"
+        ],
+        "type": "object",
+        "properties": {
+          "data_gerada": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "hora": {
+            "$ref": "#/components/schemas/TimeSpan"
+          },
+          "valor_total": {
+            "type": "number",
+            "format": "double"
+          },
+          "desconto": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valor_final": {
+            "type": "number",
+            "format": "double"
+          },
+          "forma_pagamento": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "status_venda": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id_caixa_fk": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id_cliente_pf_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "id_cliente_pj_fk": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "itens": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ItemVendaCreateDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

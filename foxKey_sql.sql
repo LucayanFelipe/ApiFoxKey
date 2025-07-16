@@ -3,8 +3,6 @@ USE fox_key;
 
 #drop database fox_key;
 
-
-
 CREATE TABLE usuario(
     id_usuario INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(255) NOT NULL,
@@ -12,8 +10,6 @@ CREATE TABLE usuario(
     senha VARCHAR(255) NOT NULL,
     perfil_acesso ENUM('ADMIN','GERENTE','VENDEDOR','CAIXA') NOT NULL
 );
-
-select * from usuario;
 
 CREATE TABLE login_exclusivo (
     id_login INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
@@ -96,7 +92,6 @@ CREATE TABLE cliente_pf (
     id_endereco_contato_fk INT NOT NULL,
     FOREIGN KEY (id_endereco_contato_fk) REFERENCES endereco_contato(id_endereco_contato)
 );
-
 
 CREATE TABLE cliente_pj (
     id_cliente_pj INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
@@ -292,6 +287,7 @@ CREATE TABLE venda (
   (id_cliente_pf_fk IS NOT NULL AND id_cliente_pj_fk IS NULL) OR
   (id_cliente_pf_fk IS NULL AND id_cliente_pj_fk IS NOT NULL)
 ),
+    
     FOREIGN KEY (id_caixa_fk) REFERENCES caixa(id_caixa)
 );
 
@@ -396,10 +392,8 @@ INSERT INTO fornecedor_pj (nome_fantasia, razao_social, inscricao_municipal, cnp
 ('Alimentos SA', 'Alimentos e Bebidas SA', '654321', '98765432000155', '2005-07-20', 'Patricia Mendes', 4);
 
 INSERT INTO cliente_pf (nome, sobrenome, data_nascimento, cpf, rg, sexo, id_endereco_contato_fk) VALUES 
-('Ana', 'Carvalho', '1990-04-25', '11122233344', '11222333', 'FEMININO', 1),
-('Lucas', 'Martins', '1985-11-30', '55566677788', '55666777', 'MASCULINO', 2);
-
-
+('Ana', 'Carvalho', '1990-04-25', '111.222.333-44', '11222333', 'FEMININO', 2),
+('Lucas', 'Martins', '1985-11-30', '555.666.777-88', '55666777', 'MASCULINO', 5);
 
 INSERT INTO cliente_pj (nome_fantasia, razao_social, inscricao_municipal, cnpj, data_abertura, representante, id_endereco_contato_fk) VALUES 
 ('Mercado Central', 'Mercado Central Ltda', '112233', '11222333000144', '2015-06-18', 'Carlos Eduardo', 2),
@@ -477,7 +471,6 @@ INSERT INTO venda
 ('2023-01-11', '15:45:00', 580.80, 0.00, 580.80, 'PIX', 'FECHADA', 2, NULL, 2);       -- Cliente PJ
 
 
-
 INSERT INTO pagamento 
 (valor_pago, data_pagamento, parcelado, qtd_parcelas, status_pagamento, id_venda_fk, id_cliente_pf_fk, id_cliente_pj_fk) VALUES 
 (350.50, '2023-01-10', FALSE, NULL, 'PAGO', 1, 1, NULL),
@@ -492,15 +485,14 @@ INSERT INTO despesa (tipo_despesa, valor, data_gerada, descricao, id_login_fk) V
 
 
 INSERT INTO parcela (qtd_parcelas, data_vencimento, valor_parcela, status_parcela, data_pagamento, id_pagamento_fk, id_despesa_fk) VALUES 
-(3, '2023-02-11', 193.60, 'EM ABERTO', '2023-01-11', 1, 1),
-(3, '2023-03-11', 193.60, 'EM ABERTO', '2023-01-11', 2, 1),
-(3, '2023-04-11', 193.60, 'EM ABERTO', '2023-01-11', 3, 1);
+(3, '2023-02-11', 193.60, 'EM ABERTO', '2023-01-11', 13, 1),
+(3, '2023-03-11', 193.60, 'EM ABERTO', '2023-01-11', 14, 1),
+(3, '2023-04-11', 193.60, 'EM ABERTO', '2023-01-11', 15, 1);
 
 INSERT INTO nota_fiscal (numero, data_emissao, valor_total, tipo, chave_acesso, xml_nota, id_venda_fk) VALUES 
 ('000001', '2023-01-10', 350.50, 'NFC-E', 'NFe41190306117473000150550010000000011000000010', NULL, 1),
 ('000002', '2023-01-10', 400.75, 'NFC-E', 'NFe41190306117473000150550010000000021000000020', NULL, 2),
 ('000003', '2023-01-11', 280.00, 'NFC-E', 'NFe41190306117473000150550010000000031000000030', NULL, 3);
-
 
 INSERT INTO item_venda (qtd, preco_unit, id_venda_fk, id_produto_fk) VALUES 
 (10, 5.99, 1, 1),
@@ -510,7 +502,5 @@ INSERT INTO item_venda (qtd, preco_unit, id_venda_fk, id_produto_fk) VALUES
 (3, 15.99, 3, 5),
 (10, 5.99, 4, 1),
 (20, 4.99, 4, 2);
-
-select * from usuario;
 
 

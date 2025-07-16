@@ -1,398 +1,398 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\",
+  "WorkspaceRootPath": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\relatoriocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\relatoriocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\relatoriocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\relatoriocaixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\relatoriocaixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\relatoriocaixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\caixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\relatoriocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\relatoriocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\relatoriocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\caixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\caixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriocaixadetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\relatoriocaixadetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\relatoriocaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\relatoriocaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\relatoriocaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\compraitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\compraitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\compraitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\movimentacaocaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\movimentacaocaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\movimentacaocaixacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\loginexclusivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\loginexclusivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\loginexclusivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\notafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\notafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\notafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\notafiscaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\notafiscaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\notafiscaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\movimentacaocaixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\movimentacaocaixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\movimentacaocaixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\compradetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\compradetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\loginexclusivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\loginexclusivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\loginexclusivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemcompradetalhadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\itemcompradetalhadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\movimentacaocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\movimentacaocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\movimentacaocaixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\enderecocontatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\enderecocontatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\enderecocontatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\compraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\compraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\compraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\itemvendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\itemvendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\itemvendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\itemvendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\itemvendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\itemvendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\datacontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\datacontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:datacontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\vendadetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\vendadetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\vendadetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\vendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\vendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\vendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemvendacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemvendacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\itemvendacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemvendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemvendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\itemvendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemvendadetalhadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\itemvendadetalhadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\itemvendadetalhadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\caixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\caixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\caixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\enderecocontatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\enderecocontatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\enderecocontatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\clientepjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\clientepjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\clientepjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\clientepjdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\clientepjdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\clientepjdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\clientepfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\clientepfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\clientepfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\fornecedorpfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\fornecedorpfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\fornecedorpfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\fornecedorpjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\fornecedorpjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\fornecedorpjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\clientepfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\clientepfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\clientepfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\fornecedorpjdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\fornecedorpjdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\fornecedorpjdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\fornecedorpfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\fornecedorpfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\fornecedorpfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\clientepfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\clientepfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\clientepfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\enderecocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\enderecocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\enderecocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\enderecocontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\enderecocontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\enderecocontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\relatoriovendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\relatoriovendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\relatoriovendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\relatoriocompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\relatoriocompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\relatoriocompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\relatoriovendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\relatoriovendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\relatoriovendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\compraitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\compraitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\compraitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\parcelaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\parcelaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\parcelaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\apifoxkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\apifoxkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:apifoxkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\utilitys\\timespanschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\utilitys\\timespanschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:utilitys\\timespanschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\converters\\timespantostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\converters\\timespantostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:converters\\timespantostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\clientepj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\clientepj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\clientepj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\loginexclusivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\loginexclusivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\loginexclusivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\parcelacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\parcelacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\parcelacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\parceladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\parceladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\parceladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\despesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\despesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\despesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\estoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\estoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\estoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\clientepjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\clientepjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\clientepjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\loginexclusivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\loginexclusivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\loginexclusivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\movimentacaocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\movimentacaocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\movimentacaocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\relatoriovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\relatoriovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\relatoriovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\relatoriocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\relatoriocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\relatoriocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\fornecedorpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\models\\fornecedorpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:models\\fornecedorpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\compraitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\compraitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\compraitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\relatoriocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\controllers\\relatoriocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:controllers\\relatoriocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriocompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriocompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\relatoriocompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\ifro\\alicy_commit\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriovendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|c:\\users\\lucay\\desktop\\system_foxkey\\api_foxkey\\apilocadora-main\\apilocadora-main\\apilocadora\\apifoxkey\\dtos\\relatoriovendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3821F20F-B140-4E8D-B641-B6A7BAAD9C31}|ApiFoxKey.csproj|solutionrelative:dtos\\relatoriovendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\RelatorioCaixaDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemCompraDetalhadaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\ItemCompraDetalhadaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\CompraDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -402,39 +402,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RelatorioCaixaDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDetailsDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\RelatorioCaixaDetailsDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDetailsDto.cs",
-              "RelativeToolTip": "Dtos\\RelatorioCaixaDetailsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T00:21:35.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RelatorioCaixaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCaixaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RelatorioCaixaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCaixaController.cs",
-              "RelativeToolTip": "Controllers\\RelatorioCaixaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T18:41:16.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RelatorioCaixa.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCaixa.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCaixa.cs",
               "RelativeDocumentMoniker": "Models\\RelatorioCaixa.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCaixa.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCaixa.cs",
               "RelativeToolTip": "Models\\RelatorioCaixa.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -442,36 +418,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RelatorioCaixaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\RelatorioCaixaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDto.cs",
               "RelativeToolTip": "Dtos\\RelatorioCaixaDto.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAgwC8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwC8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T18:19:33.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RelatorioCaixaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCaixaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCaixaService.cs",
               "RelativeDocumentMoniker": "Services\\RelatorioCaixaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCaixaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCaixaService.cs",
               "RelativeToolTip": "Services\\RelatorioCaixaService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T18:19:19.924Z"
+              "WhenOpened": "2025-06-01T18:19:19.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelatorioCaixaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCaixaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RelatorioCaixaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCaixaController.cs",
+              "RelativeToolTip": "Controllers\\RelatorioCaixaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:41:16.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "RelatorioCaixaDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RelatorioCaixaDetailsDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCaixaDetailsDto.cs",
+              "RelativeToolTip": "Dtos\\RelatorioCaixaDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:21:35.151Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CaixaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CaixaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CaixaService.cs",
               "RelativeDocumentMoniker": "Services\\CaixaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CaixaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CaixaService.cs",
               "RelativeToolTip": "Services\\CaixaService.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CompraItemController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraItemController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompraItemController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraItemController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraItemController.cs",
               "RelativeToolTip": "Controllers\\CompraItemController.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "CompraController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompraController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CompraController.cs",
               "RelativeToolTip": "Controllers\\CompraController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "MovimentacaoCaixaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\MovimentacaoCaixaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\MovimentacaoCaixaController.cs",
               "RelativeDocumentMoniker": "Controllers\\MovimentacaoCaixaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\MovimentacaoCaixaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\MovimentacaoCaixaController.cs",
               "RelativeToolTip": "Controllers\\MovimentacaoCaixaController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -515,11 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Program.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAuwEcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "NotaFiscal.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\NotaFiscal.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\NotaFiscal.cs",
               "RelativeDocumentMoniker": "Models\\NotaFiscal.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\NotaFiscal.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\NotaFiscal.cs",
               "RelativeToolTip": "Models\\NotaFiscal.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA3wBgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "NotaFiscal.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\NotaFiscal.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\NotaFiscal.cs",
               "RelativeDocumentMoniker": "Controllers\\NotaFiscal.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\NotaFiscal.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\NotaFiscal.cs",
               "RelativeToolTip": "Controllers\\NotaFiscal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,11 +552,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "NotaFiscalService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\NotaFiscalService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\NotaFiscalService.cs",
               "RelativeDocumentMoniker": "Services\\NotaFiscalService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\NotaFiscalService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\NotaFiscalService.cs",
               "RelativeToolTip": "Services\\NotaFiscalService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,11 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "LoginExclusivoController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\LoginExclusivoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\LoginExclusivoController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginExclusivoController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\LoginExclusivoController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\LoginExclusivoController.cs",
               "RelativeToolTip": "Controllers\\LoginExclusivoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,11 +576,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 96,
               "Title": "ItemCompraDetalhadaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemCompraDetalhadaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemCompraDetalhadaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ItemCompraDetalhadaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemCompraDetalhadaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemCompraDetalhadaDto.cs",
               "RelativeToolTip": "Dtos\\ItemCompraDetalhadaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -587,11 +588,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "NotaFiscalDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\NotaFiscalDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\NotaFiscalDto.cs",
               "RelativeDocumentMoniker": "Dtos\\NotaFiscalDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\NotaFiscalDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\NotaFiscalDto.cs",
               "RelativeToolTip": "Dtos\\NotaFiscalDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -599,11 +600,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MovimentacaoCaixaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\MovimentacaoCaixaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\MovimentacaoCaixaService.cs",
               "RelativeDocumentMoniker": "Services\\MovimentacaoCaixaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\MovimentacaoCaixaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\MovimentacaoCaixaService.cs",
               "RelativeToolTip": "Services\\MovimentacaoCaixaService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAywCQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -611,11 +612,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "PagamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\PagamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\PagamentoController.cs",
               "RelativeDocumentMoniker": "Controllers\\PagamentoController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\PagamentoController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\PagamentoController.cs",
               "RelativeToolTip": "Controllers\\PagamentoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -623,11 +624,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "LoginExclusivo.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\LoginExclusivo.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\LoginExclusivo.cs",
               "RelativeDocumentMoniker": "Models\\LoginExclusivo.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\LoginExclusivo.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\LoginExclusivo.cs",
               "RelativeToolTip": "Models\\LoginExclusivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,11 +636,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "CompraService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraService.cs",
               "RelativeDocumentMoniker": "Services\\CompraService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraService.cs",
               "RelativeToolTip": "Services\\CompraService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAcwCMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,11 +648,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Compra.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Compra.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Compra.cs",
               "RelativeDocumentMoniker": "Models\\Compra.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Compra.cs",
               "RelativeToolTip": "Models\\Compra.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -659,11 +660,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "Venda.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Venda.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Venda.cs",
               "RelativeDocumentMoniker": "Models\\Venda.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Venda.cs",
               "RelativeToolTip": "Models\\Venda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -671,11 +672,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "EnderecoContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EnderecoContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EnderecoContatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\EnderecoContatoController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EnderecoContatoController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EnderecoContatoController.cs",
               "RelativeToolTip": "Controllers\\EnderecoContatoController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAFwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -683,11 +684,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 97,
               "Title": "CompraDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDetailsDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CompraDetailsDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDetailsDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDetailsDto.cs",
               "RelativeToolTip": "Dtos\\CompraDetailsDto.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -695,11 +696,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 25,
               "Title": "VendaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\VendaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\VendaService.cs",
               "RelativeDocumentMoniker": "Services\\VendaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\VendaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\VendaService.cs",
               "RelativeToolTip": "Services\\VendaService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -707,11 +708,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "CompraDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CompraDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraDto.cs",
               "RelativeToolTip": "Dtos\\CompraDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -719,11 +720,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "ItemVenda.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ItemVenda.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ItemVenda.cs",
               "RelativeDocumentMoniker": "Models\\ItemVenda.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ItemVenda.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ItemVenda.cs",
               "RelativeToolTip": "Models\\ItemVenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,11 +732,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "MovimentacaoCaixaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\MovimentacaoCaixaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\MovimentacaoCaixaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\MovimentacaoCaixaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\MovimentacaoCaixaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\MovimentacaoCaixaDto.cs",
               "RelativeToolTip": "Dtos\\MovimentacaoCaixaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,11 +744,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 34,
               "Title": "ItemVendaDetalhadaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDetalhadaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDetalhadaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ItemVendaDetalhadaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDetalhadaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDetalhadaDto.cs",
               "RelativeToolTip": "Dtos\\ItemVendaDetalhadaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,11 +756,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "CompraItem.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\CompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\CompraItem.cs",
               "RelativeDocumentMoniker": "Models\\CompraItem.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\CompraItem.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\CompraItem.cs",
               "RelativeToolTip": "Models\\CompraItem.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -767,11 +768,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 26,
               "Title": "ItemVendaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ItemVendaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ItemVendaService.cs",
               "RelativeDocumentMoniker": "Services\\ItemVendaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ItemVendaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ItemVendaService.cs",
               "RelativeToolTip": "Services\\ItemVendaService.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAHIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -779,11 +780,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 27,
               "Title": "ItemVendaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ItemVendaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ItemVendaController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemVendaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ItemVendaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ItemVendaController.cs",
               "RelativeToolTip": "Controllers\\ItemVendaController.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAAAFsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -791,11 +792,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 31,
               "Title": "ItemVendaCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaCreateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ItemVendaCreateDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaCreateDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaCreateDto.cs",
               "RelativeToolTip": "Dtos\\ItemVendaCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -803,11 +804,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 29,
               "Title": "VendaDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDetailsDto.cs",
               "RelativeDocumentMoniker": "Dtos\\VendaDetailsDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDetailsDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDetailsDto.cs",
               "RelativeToolTip": "Dtos\\VendaDetailsDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -815,11 +816,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
               "Title": "VendaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\VendaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\VendaDto.cs",
               "RelativeToolTip": "Dtos\\VendaDto.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -827,11 +828,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 28,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\DataContexts\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\DataContexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DataContexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\DataContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\DataContexts\\AppDbContext.cs",
               "RelativeToolTip": "DataContexts\\AppDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwG4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -839,11 +840,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 33,
               "Title": "DespesaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\DespesaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\DespesaController.cs",
               "RelativeDocumentMoniker": "Controllers\\DespesaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\DespesaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\DespesaController.cs",
               "RelativeToolTip": "Controllers\\DespesaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -851,11 +852,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 35,
               "Title": "CaixaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CaixaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CaixaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CaixaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CaixaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CaixaDto.cs",
               "RelativeToolTip": "Dtos\\CaixaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -863,11 +864,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
               "Title": "ItemVendaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ItemVendaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ItemVendaDto.cs",
               "RelativeToolTip": "Dtos\\ItemVendaDto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -875,11 +876,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 36,
               "Title": "UsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UsuarioDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\UsuarioDto.cs",
               "RelativeToolTip": "Dtos\\UsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -887,11 +888,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 38,
               "Title": "ProdutoDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ProdutoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProdutoDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ProdutoDto.cs",
               "RelativeToolTip": "Dtos\\ProdutoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -899,11 +900,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 37,
               "Title": "EnderecoContatoDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EnderecoContatoDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EnderecoContatoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\EnderecoContatoDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EnderecoContatoDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EnderecoContatoDto.cs",
               "RelativeToolTip": "Dtos\\EnderecoContatoDto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA9wAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -911,11 +912,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 39,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Produto.cs",
               "RelativeToolTip": "Models\\Produto.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -923,11 +924,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 40,
               "Title": "ProdutoService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "Services\\ProdutoService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ProdutoService.cs",
               "RelativeToolTip": "Services\\ProdutoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -935,11 +936,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 41,
               "Title": "ClientePjService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePjService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePjService.cs",
               "RelativeDocumentMoniker": "Services\\ClientePjService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePjService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePjService.cs",
               "RelativeToolTip": "Services\\ClientePjService.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -947,11 +948,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 42,
               "Title": "ClientePjDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePjDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePjDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ClientePjDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePjDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePjDto.cs",
               "RelativeToolTip": "Dtos\\ClientePjDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -959,11 +960,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 43,
               "Title": "ClientePfDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePfDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePfDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ClientePfDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePfDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ClientePfDto.cs",
               "RelativeToolTip": "Dtos\\ClientePfDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -971,11 +972,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 44,
               "Title": "FornecedorPfService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPfService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPfService.cs",
               "RelativeDocumentMoniker": "Services\\FornecedorPfService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPfService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPfService.cs",
               "RelativeToolTip": "Services\\FornecedorPfService.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAIwE8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -983,11 +984,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 46,
               "Title": "ClientePfService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePfService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePfService.cs",
               "RelativeDocumentMoniker": "Services\\ClientePfService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePfService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ClientePfService.cs",
               "RelativeToolTip": "Services\\ClientePfService.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAmwHsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -995,11 +996,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 47,
               "Title": "FornecedorPjDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPjDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPjDto.cs",
               "RelativeDocumentMoniker": "Dtos\\FornecedorPjDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPjDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPjDto.cs",
               "RelativeToolTip": "Dtos\\FornecedorPjDto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA9wBoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1007,11 +1008,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 48,
               "Title": "FornecedorPfDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPfDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPfDto.cs",
               "RelativeDocumentMoniker": "Dtos\\FornecedorPfDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPfDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FornecedorPfDto.cs",
               "RelativeToolTip": "Dtos\\FornecedorPfDto.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAmwCYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1019,11 +1020,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 53,
               "Title": "ClientePfController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePfController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePfController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientePfController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePfController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePfController.cs",
               "RelativeToolTip": "Controllers\\ClientePfController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAwwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1031,11 +1032,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 49,
               "Title": "Despesa.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Despesa.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Despesa.cs",
               "RelativeDocumentMoniker": "Models\\Despesa.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Despesa.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Despesa.cs",
               "RelativeToolTip": "Models\\Despesa.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1043,11 +1044,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 45,
               "Title": "FornecedorPjService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPjService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPjService.cs",
               "RelativeDocumentMoniker": "Services\\FornecedorPjService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPjService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FornecedorPjService.cs",
               "RelativeToolTip": "Services\\FornecedorPjService.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAowG0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1055,11 +1056,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 51,
               "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Funcionario.cs",
               "RelativeDocumentMoniker": "Models\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Funcionario.cs",
               "RelativeToolTip": "Models\\Funcionario.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1067,11 +1068,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 50,
               "Title": "FuncionarioService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FuncionarioService.cs",
               "RelativeDocumentMoniker": "Services\\FuncionarioService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\FuncionarioService.cs",
               "RelativeToolTip": "Services\\FuncionarioService.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAcwIEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1079,11 +1080,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 54,
               "Title": "EnderecoContato.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\EnderecoContato.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\EnderecoContato.cs",
               "RelativeDocumentMoniker": "Models\\EnderecoContato.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\EnderecoContato.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\EnderecoContato.cs",
               "RelativeToolTip": "Models\\EnderecoContato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1091,11 +1092,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 52,
               "Title": "FuncionarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FuncionarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FuncionarioDto.cs",
               "RelativeDocumentMoniker": "Dtos\\FuncionarioDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FuncionarioDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\FuncionarioDto.cs",
               "RelativeToolTip": "Dtos\\FuncionarioDto.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAA7wDIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1103,11 +1104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 55,
               "Title": "EstoqueService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EstoqueService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EstoqueService.cs",
               "RelativeDocumentMoniker": "Services\\EstoqueService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EstoqueService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EstoqueService.cs",
               "RelativeToolTip": "Services\\EstoqueService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1115,11 +1116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 56,
               "Title": "EnderecoContatoService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EnderecoContatoService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EnderecoContatoService.cs",
               "RelativeDocumentMoniker": "Services\\EnderecoContatoService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EnderecoContatoService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\EnderecoContatoService.cs",
               "RelativeToolTip": "Services\\EnderecoContatoService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1127,11 +1128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 60,
               "Title": "RelatorioVendaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioVendaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioVendaController.cs",
               "RelativeDocumentMoniker": "Controllers\\RelatorioVendaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioVendaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioVendaController.cs",
               "RelativeToolTip": "Controllers\\RelatorioVendaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1139,11 +1140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 59,
               "Title": "VendaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\VendaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\VendaController.cs",
               "RelativeDocumentMoniker": "Controllers\\VendaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\VendaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\VendaController.cs",
               "RelativeToolTip": "Controllers\\VendaController.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAcwEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1151,11 +1152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 58,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Usuario.cs",
               "RelativeToolTip": "Models\\Usuario.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1163,11 +1164,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 61,
               "Title": "RelatorioCompraService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCompraService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCompraService.cs",
               "RelativeDocumentMoniker": "Services\\RelatorioCompraService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCompraService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioCompraService.cs",
               "RelativeToolTip": "Services\\RelatorioCompraService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwBUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1175,11 +1176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 57,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
               "ViewState": "AgIAADQAAAAAAAAAAIAwwEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1187,11 +1188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 63,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\UsuarioService.cs",
               "RelativeToolTip": "Services\\UsuarioService.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1199,11 +1200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 62,
               "Title": "RelatorioVendaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioVendaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioVendaService.cs",
               "RelativeDocumentMoniker": "Services\\RelatorioVendaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioVendaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\RelatorioVendaService.cs",
               "RelativeToolTip": "Services\\RelatorioVendaService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwCMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1211,11 +1212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 64,
               "Title": "CompraItemService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraItemService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraItemService.cs",
               "RelativeDocumentMoniker": "Services\\CompraItemService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraItemService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CompraItemService.cs",
               "RelativeToolTip": "Services\\CompraItemService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwCEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1223,11 +1224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 65,
               "Title": "PagamentoService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\PagamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\PagamentoService.cs",
               "RelativeDocumentMoniker": "Services\\PagamentoService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\PagamentoService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\PagamentoService.cs",
               "RelativeToolTip": "Services\\PagamentoService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1235,11 +1236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 66,
               "Title": "PagamentoDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\PagamentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\PagamentoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\PagamentoDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\PagamentoDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\PagamentoDto.cs",
               "RelativeToolTip": "Dtos\\PagamentoDto.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1247,11 +1248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 68,
               "Title": "ParcelaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ParcelaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ParcelaService.cs",
               "RelativeDocumentMoniker": "Services\\ParcelaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ParcelaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\ParcelaService.cs",
               "RelativeToolTip": "Services\\ParcelaService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1259,11 +1260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 67,
               "Title": "Pagamento.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Pagamento.cs",
               "RelativeDocumentMoniker": "Models\\Pagamento.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Pagamento.cs",
               "RelativeToolTip": "Models\\Pagamento.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA4wCEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1271,11 +1272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 71,
               "Title": "TimeSpanToStringConverter.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Converters\\TimeSpanToStringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Converters\\TimeSpanToStringConverter.cs",
               "RelativeDocumentMoniker": "Converters\\TimeSpanToStringConverter.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Converters\\TimeSpanToStringConverter.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Converters\\TimeSpanToStringConverter.cs",
               "RelativeToolTip": "Converters\\TimeSpanToStringConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1283,11 +1284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 70,
               "Title": "TimeSpanSchemaFilter.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Utilitys\\TimeSpanSchemaFilter.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Utilitys\\TimeSpanSchemaFilter.cs",
               "RelativeDocumentMoniker": "Utilitys\\TimeSpanSchemaFilter.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Utilitys\\TimeSpanSchemaFilter.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Utilitys\\TimeSpanSchemaFilter.cs",
               "RelativeToolTip": "Utilitys\\TimeSpanSchemaFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1295,11 +1296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 69,
               "Title": "ApiFoxKey.csproj",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\ApiFoxKey.csproj",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\ApiFoxKey.csproj",
               "RelativeDocumentMoniker": "ApiFoxKey.csproj",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\ApiFoxKey.csproj",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\ApiFoxKey.csproj",
               "RelativeToolTip": "ApiFoxKey.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1307,11 +1308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 72,
               "Title": "Caixa.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Caixa.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Caixa.cs",
               "RelativeDocumentMoniker": "Models\\Caixa.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Caixa.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Caixa.cs",
               "RelativeToolTip": "Models\\Caixa.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA9wA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1319,11 +1320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 73,
               "Title": "ClientePj.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ClientePj.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ClientePj.cs",
               "RelativeDocumentMoniker": "Models\\ClientePj.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ClientePj.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\ClientePj.cs",
               "RelativeToolTip": "Models\\ClientePj.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA8wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1331,11 +1332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 74,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Categoria.cs",
               "RelativeToolTip": "Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1343,11 +1344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 75,
               "Title": "LoginExclusivoService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\LoginExclusivoService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\LoginExclusivoService.cs",
               "RelativeDocumentMoniker": "Services\\LoginExclusivoService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\LoginExclusivoService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\LoginExclusivoService.cs",
               "RelativeToolTip": "Services\\LoginExclusivoService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAkwBoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1355,11 +1356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 76,
               "Title": "Estoque.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Estoque.cs",
               "RelativeDocumentMoniker": "Models\\Estoque.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Estoque.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Estoque.cs",
               "RelativeToolTip": "Models\\Estoque.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAswAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1367,11 +1368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 77,
               "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "Controllers\\CategoriaController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1379,11 +1380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 78,
               "Title": "ParcelaController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ParcelaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ParcelaController.cs",
               "RelativeDocumentMoniker": "Controllers\\ParcelaController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ParcelaController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ParcelaController.cs",
               "RelativeToolTip": "Controllers\\ParcelaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1391,11 +1392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 79,
               "Title": "Parcela.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Parcela.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Parcela.cs",
               "RelativeDocumentMoniker": "Models\\Parcela.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Parcela.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\Parcela.cs",
               "RelativeToolTip": "Models\\Parcela.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1403,11 +1404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 80,
               "Title": "ParcelaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ParcelaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ParcelaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ParcelaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ParcelaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\ParcelaDto.cs",
               "RelativeToolTip": "Dtos\\ParcelaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1415,11 +1416,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 81,
               "Title": "DespesaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\DespesaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\DespesaService.cs",
               "RelativeDocumentMoniker": "Services\\DespesaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\DespesaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\DespesaService.cs",
               "RelativeToolTip": "Services\\DespesaService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1427,11 +1428,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 82,
               "Title": "CategoriaService.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CategoriaService.cs",
               "RelativeDocumentMoniker": "Services\\CategoriaService.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Services\\CategoriaService.cs",
               "RelativeToolTip": "Services\\CategoriaService.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwGMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1439,11 +1440,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 83,
               "Title": "EstoqueController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EstoqueController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EstoqueController.cs",
               "RelativeDocumentMoniker": "Controllers\\EstoqueController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EstoqueController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\EstoqueController.cs",
               "RelativeToolTip": "Controllers\\EstoqueController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1451,11 +1452,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 85,
               "Title": "ClientePjController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePjController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePjController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientePjController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePjController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\ClientePjController.cs",
               "RelativeToolTip": "Controllers\\ClientePjController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1463,11 +1464,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 84,
               "Title": "EstoqueDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EstoqueDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EstoqueDto.cs",
               "RelativeDocumentMoniker": "Dtos\\EstoqueDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EstoqueDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\EstoqueDto.cs",
               "RelativeToolTip": "Dtos\\EstoqueDto.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1475,11 +1476,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 89,
               "Title": "RelatorioCompra.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCompra.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCompra.cs",
               "RelativeDocumentMoniker": "Models\\RelatorioCompra.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCompra.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioCompra.cs",
               "RelativeToolTip": "Models\\RelatorioCompra.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1487,11 +1488,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 86,
               "Title": "LoginExclusivoDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\LoginExclusivoDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\LoginExclusivoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\LoginExclusivoDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\LoginExclusivoDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\LoginExclusivoDto.cs",
               "RelativeToolTip": "Dtos\\LoginExclusivoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1499,11 +1500,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 87,
               "Title": "MovimentacaoCaixa.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\MovimentacaoCaixa.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\MovimentacaoCaixa.cs",
               "RelativeDocumentMoniker": "Models\\MovimentacaoCaixa.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\MovimentacaoCaixa.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\MovimentacaoCaixa.cs",
               "RelativeToolTip": "Models\\MovimentacaoCaixa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1511,11 +1512,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 88,
               "Title": "RelatorioVenda.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioVenda.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioVenda.cs",
               "RelativeDocumentMoniker": "Models\\RelatorioVenda.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioVenda.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\RelatorioVenda.cs",
               "RelativeToolTip": "Models\\RelatorioVenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1523,11 +1524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 90,
               "Title": "FornecedorPj.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\FornecedorPj.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\FornecedorPj.cs",
               "RelativeDocumentMoniker": "Models\\FornecedorPj.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\FornecedorPj.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Models\\FornecedorPj.cs",
               "RelativeToolTip": "Models\\FornecedorPj.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1535,11 +1536,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 91,
               "Title": "CompraItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraItemDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CompraItemDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraItemDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\CompraItemDto.cs",
               "RelativeToolTip": "Dtos\\CompraItemDto.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1547,11 +1548,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 92,
               "Title": "RelatorioCompraController.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCompraController.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCompraController.cs",
               "RelativeDocumentMoniker": "Controllers\\RelatorioCompraController.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCompraController.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Controllers\\RelatorioCompraController.cs",
               "RelativeToolTip": "Controllers\\RelatorioCompraController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1559,11 +1560,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 93,
               "Title": "RelatorioCompraDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCompraDto.cs",
               "RelativeDocumentMoniker": "Dtos\\RelatorioCompraDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCompraDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioCompraDto.cs",
               "RelativeToolTip": "Dtos\\RelatorioCompraDto.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1571,11 +1572,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 94,
               "Title": "RelatorioVendaDto.cs",
-              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioVendaDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioVendaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\RelatorioVendaDto.cs",
-              "ToolTip": "C:\\Users\\lucay\\Desktop\\IFRO\\alicy_commit\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioVendaDto.cs",
+              "ToolTip": "C:\\Users\\lucay\\Desktop\\SYSTEM_FOXKEY\\API_foxKey\\ApiLocadora-main\\ApiLocadora-main\\ApiLocadora\\ApiFoxKey\\Dtos\\RelatorioVendaDto.cs",
               "RelativeToolTip": "Dtos\\RelatorioVendaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

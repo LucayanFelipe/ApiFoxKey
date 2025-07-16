@@ -21,6 +21,10 @@ namespace ApiLocadora.Services
         {
             return await _context.RelatorioCaixas
                                 .Include(e => e.Caixa)
+                                .ThenInclude(e=> e.MovimentacaoCaixa)
+                                .Include(e => e.Caixa)
+                                .ThenInclude(e=> e.Funcionario)
+                               
                 .ToListAsync();
         }
 

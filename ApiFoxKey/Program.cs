@@ -9,12 +9,12 @@ using ApiLocadora.Converters;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuração do CORS
+// ConfiguraÃ§Ã£o do CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowVueFrontend",
         builder => builder
-            .WithOrigins("http://localhost:5173") // URL do seu frontend
+            .WithOrigins("http://localhost:5173", "http://localhost:5174") // URL do seu frontend
             .AllowAnyMethod()
             .AllowAnyHeader()
             .AllowCredentials());

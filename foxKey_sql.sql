@@ -485,9 +485,9 @@ INSERT INTO despesa (tipo_despesa, valor, data_gerada, descricao, id_login_fk) V
 
 
 INSERT INTO parcela (qtd_parcelas, data_vencimento, valor_parcela, status_parcela, data_pagamento, id_pagamento_fk, id_despesa_fk) VALUES 
-(3, '2023-02-11', 193.60, 'EM ABERTO', '2023-01-11', 13, 1),
-(3, '2023-03-11', 193.60, 'EM ABERTO', '2023-01-11', 14, 1),
-(3, '2023-04-11', 193.60, 'EM ABERTO', '2023-01-11', 15, 1);
+(3, '2023-02-11', 193.60, 'EM ABERTO', '2023-01-11', 1, 1),
+(3, '2023-03-11', 193.60, 'EM ABERTO', '2023-01-11', 2, 1),
+(3, '2023-04-11', 193.60, 'EM ABERTO', '2023-01-11', 3, 1);
 
 INSERT INTO nota_fiscal (numero, data_emissao, valor_total, tipo, chave_acesso, xml_nota, id_venda_fk) VALUES 
 ('000001', '2023-01-10', 350.50, 'NFC-E', 'NFe41190306117473000150550010000000011000000010', NULL, 1),
